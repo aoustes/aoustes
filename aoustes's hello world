@@ -1,7 +1,25 @@
-echo "# aoustes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/aoustes/aoustes.git
-git push -u origin main
+import java.util.*;
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
+  }
+}
+这是java
+#include<stdio.h>
+
+int main()
+{
+    printf("Hello world!");
+    return 0;
+}
+这是C
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    return 0;
+}
+这是c++
